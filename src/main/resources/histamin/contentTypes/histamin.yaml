@@ -1,0 +1,12 @@
+datasource:
+  workspace: food
+  autoCreate: true
+model:
+#  class: info.magnolia.types.model.jcr.JcrModelDefinition
+  nodeType: mgnl:content
+  properties:
+    - name: description
+    - name: positiveSources
+      multiple: true
+    - name: negativeSources
+      multiple: true

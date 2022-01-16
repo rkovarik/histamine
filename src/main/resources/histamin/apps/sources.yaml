@@ -1,0 +1,19 @@
+!content-type:sources
+class: info.magnolia.ui.contenttype.ContentTypeAppDescriptor
+datasource:
+  sortBy:
+    name: ASCENDING
+subApps:
+  browser:
+    actions:
+      export:
+        implementationClass: roman.histamin.JcrExportRootAction
+        availability:
+          root: true
+    actionbar:
+      sections:
+        root:
+          groups:
+            exportActions:
+              items:
+                - name: export

@@ -1,0 +1,349 @@
+'pit-':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '17747c03-be2a-49ec-bd3e-5dc41234b7e2'
+  'mgnl:created': 2022-01-15T09:35:06.495+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T10:03:39.353+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'pití'
+  '-aj':
+    'jcr:primaryType': 'mgnl:folder'
+    'jcr:uuid': '5d4d773b-0802-47bb-8b31-affb1bc8f571'
+    'mgnl:created': 2022-01-15T09:35:33.807+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:43:00.432+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'čaj'
+    '-ern-':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': 'e4aebc69-9c7e-4c86-9a78-b93bdcfd505c'
+      'mgnl:created': 2022-01-15T09:43:16.514+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-15T09:43:16.514+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'černý'
+      'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+      'positiveSources': []
+    'bylinn-':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '6c3d2b90-fe33-42da-9ebd-c82fa5af3a4a'
+      'mgnl:created': 2022-01-15T10:03:02.442+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-15T10:03:18.622+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'bylinné'
+      'negativeSources': ['']
+      'positiveSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'zelen-':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': 'ea453445-660b-4f47-b3f1-32f3c2f23db0'
+      'mgnl:created': 2022-01-15T09:43:29.987+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-15T09:43:40.901+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'zelený'
+      'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+      'positiveSources': []
+    'mat-':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '7d84a920-1735-420b-a6e4-a74ed0ce0a82'
+      'mgnl:created': 2022-01-15T09:43:54.662+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-15T09:44:02.244+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'maté'
+      'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+      'positiveSources': []
+  'Energetick--n-poje':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'f53c94ee-3bc1-4624-b967-eba8407fa335'
+    'mgnl:created': 2022-01-15T09:44:27.813+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:44:34.925+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'Energetické nápoje'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+  'alkohol':
+    'jcr:primaryType': 'mgnl:folder'
+    'jcr:uuid': '962e4c3d-d2c1-434c-9832-5f179e179145'
+    'mgnl:created': 2022-01-15T09:51:36.634+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:51:56.857+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'alkohol'
+    'pivo--v-no':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '7ee10287-bf89-4b48-a962-83761e8b1d1b'
+      'mgnl:created': 2022-01-15T09:52:06.763+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-15T09:52:06.763+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'pivo, víno'
+      'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+      'positiveSources': []
+  'd-usy':
+    'jcr:primaryType': 'mgnl:folder'
+    'jcr:uuid': 'b169eef7-c3cd-4fb2-9fce-bc63b22a230f'
+    'mgnl:created': 2022-01-15T10:03:39.353+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T10:03:51.715+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'džusy'
+    'ovocn--d-usy-s-v-jimkou-citrusov-ch':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '3dfc2fd8-09fb-4602-a568-089d619b7580'
+      'mgnl:created': 2022-01-15T10:04:11.699+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-15T10:04:11.699+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'ovocné džusy s výjimkou citrusových'
+      'negativeSources': []
+      'positiveSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+'ryby':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'b9abf961-7834-4d64-a4b2-34a7b7fdf98b'
+  'mgnl:created': 2022-01-15T09:45:02.493+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T09:45:14.215+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'ryby'
+'uzeniny':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '69afc0ef-a7f3-4067-8108-d77563c4c600'
+  'mgnl:created': 2022-01-15T09:48:41.309+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T09:48:53.258+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'uzeniny'
+  'sal-my--klob-sy':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '1e95feeb-0623-43e7-a41d-dd24a6b6f680'
+    'mgnl:created': 2022-01-15T09:46:59.520+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:48:56.053+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'salámy, klobásy'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+  '-unka':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'aa218b38-55ca-4aec-b5c2-ae430c23b07d'
+    'mgnl:created': 2022-01-15T09:49:03.415+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:49:09.830+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'šunka'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+'s-ry':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '99f5cacf-74a5-4559-bcad-8710f0a9f2e4'
+  'mgnl:created': 2022-01-15T09:49:21.371+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T09:50:46.306+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'sýry'
+  'zraj-c-':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '4adb4c60-accd-444c-b537-4e9100ac9e75'
+    'mgnl:created': 2022-01-15T09:50:59.739+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:50:59.740+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'zrající'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+'zelenina':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '47542ade-09b2-4bc4-b0d5-840d4100497a'
+  'mgnl:created': 2022-01-15T09:52:38.890+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T09:55:51.512+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'zelenina'
+  '-pen-t--raj-ata--lilek':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'abf33277-2ec4-4afd-85e9-9889fa7cca58'
+    'mgnl:created': 2022-01-15T09:53:03.642+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:53:03.642+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'špenát, rajčata, lilek'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+  'nakl-dan-':
+    'description': 'kyselé zelí, hotová jídla'
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '0b4c55f9-9608-4f1a-b8ba-da51de1d26ff'
+    'mgnl:created': 2022-01-15T09:54:21.956+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:55:23.335+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'nakládané'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+  'lu-t-niny':
+    'jcr:primaryType': 'mgnl:folder'
+    'jcr:uuid': '09253ae7-919d-4058-bce5-9bb90d0233b6'
+    'mgnl:created': 2022-01-15T09:55:51.512+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:55:55.933+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'luštěniny'
+'ovoce':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'd7634695-85a9-4ed0-8dc4-0b4b94705bcd'
+  'mgnl:created': 2022-01-15T09:53:20.813+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T09:56:25.793+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'ovoce'
+  'citrusov--plody--pap-ja--ananas---vestky--kiwi-a-ban-ny':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '46afd8c7-3db1-457f-883d-9b980850831d'
+    'mgnl:created': 2022-01-15T09:53:20.813+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:53:37.142+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'citrusové plody, papája, ananas, švestky, kiwi a banány'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+  'konzervovan-':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'b2765cdd-245e-43e8-ac7f-03eacadf3cc4'
+    'mgnl:created': 2022-01-15T09:54:35.988+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:54:48.057+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'konzervované'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+  'o-echy':
+    'jcr:primaryType': 'mgnl:folder'
+    'jcr:uuid': '2a01d828-ba12-4cd4-a462-b2f4c349f97b'
+    'mgnl:created': 2022-01-15T09:56:25.794+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:56:33.782+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'ořechy'
+'-okol-da-a-kakaov--produkty':
+  'jcr:primaryType': 'mgnl:content'
+  'jcr:uuid': '72c31458-d10a-4595-b410-8b331a303760'
+  'mgnl:created': 2022-01-15T09:57:34.488+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T09:57:34.488+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'čokoláda a kakaové produkty'
+  'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+  'positiveSources': []
+'pe-ivo':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '5942ada6-9755-4260-a48d-0048f127fbbd'
+  'mgnl:created': 2022-01-15T09:57:48.853+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T09:57:55.954+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'pečivo'
+  'kynut-':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'ab0e5690-4731-4d49-aa4a-76e069096fac'
+    'mgnl:created': 2022-01-15T09:58:27.920+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T09:58:42.403+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'kynuté'
+    'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+    'positiveSources': []
+'ko-en-':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '9cd026d6-e38a-4978-a095-225e783bf092'
+  'mgnl:created': 2022-01-15T10:04:51.454+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T10:05:15.491+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'koření'
+  'bylinky':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'cd021850-ec47-442b-8e8e-9b2bf651df2b'
+    'mgnl:created': 2022-01-15T10:05:30.261+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T10:05:30.262+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'bylinky'
+    'negativeSources': []
+    'positiveSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+'oleje':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '84bbd664-892e-4528-8210-b17847c4dd04'
+  'mgnl:created': 2022-01-15T09:59:35.908+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T10:04:51.453+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'oleje'
+'dochucovadla':
+  'description': 'benzoany, sulfidy, dusitany, glutamát, potravinářská barviva, seitan,
+    ocet'
+  'jcr:primaryType': 'mgnl:content'
+  'jcr:uuid': '0e967bb4-3967-4196-9fc0-ab30965f67a6'
+  'mgnl:created': 2022-01-15T09:59:54.362+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T10:00:52.586+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'dochucovadla'
+  'negativeSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+  'positiveSources': []
+'maso':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'c9629aa6-49ff-42ac-a5a6-748a290e291b'
+  'mgnl:created': 2022-01-15T10:05:33.861+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T10:05:40.954+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'maso'
+'vejce':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '23a44cf0-c52d-4ecf-bc88-74fe937f8b93'
+  'mgnl:created': 2022-01-15T10:06:33.543+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T10:06:40.832+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'vejce'
+  '-loutek':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '60f5e9b4-02ff-48a0-a14a-7d6c907f933e'
+    'mgnl:created': 2022-01-15T10:07:11.533+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T10:07:11.533+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'žloutek'
+    'negativeSources': []
+    'positiveSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+  'b-lek':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '62784a10-d48b-4baf-9fcb-b7798403c93f'
+    'mgnl:created': 2022-01-15T10:07:14.218+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T10:07:19.779+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'bílek'
+    'negativeSources': []
+    'positiveSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']
+'obiloviny':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'f2bd26d5-efaf-4c0a-a1d4-4f469f7aa26b'
+  'mgnl:created': 2022-01-15T10:07:33.137+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-15T10:08:00.312+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'obiloviny'
+  'j-hly--r--e':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '6579e44f-3622-4111-b10c-232860f9318a'
+    'mgnl:created': 2022-01-15T10:08:12.241+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-15T10:08:12.241+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'jáhly, rýže'
+    'negativeSources': []
+    'positiveSources': ['https://vegmart.cz/histaminova-intolerance-jak-znizit-histamin-v-tele']

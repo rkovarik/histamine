@@ -1,0 +1,7 @@
+datasource:
+  workspace: sources
+  autoCreate: true
+model:
+  properties:
+    - name: urls
+      type: richText
