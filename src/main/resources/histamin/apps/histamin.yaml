@@ -4,6 +4,15 @@ datasource:
   sortBy:
     name: ASCENDING
 subApps:
+  detail:
+    form:
+      properties:
+        negativeSources: &sources
+          field:
+            textInputAllowed: true
+            filteringMode: CONTAINS
+            showOptions: true
+        positiveSources: *sources
   browser:
     actions:
       export:
