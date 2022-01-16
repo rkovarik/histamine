@@ -8,5 +8,7 @@ model:
     - name: description
     - name: positiveSources
       multiple: true
+      type: sources
     - name: negativeSources
       multiple: true
+      type: sources
