@@ -37,7 +37,6 @@ public class JcrExportRootAction extends JcrExportAction {
     public void execute() {
         getValueContext().set(getValueContext().getSingle().orElseGet(datasource::getRoot));
         super.execute();
-
 //        try {
 //            InstallContextImpl installContext = new InstallContextImpl(null);
 //            new QueryTask("", "", "food", "select * from [nt:base]") {

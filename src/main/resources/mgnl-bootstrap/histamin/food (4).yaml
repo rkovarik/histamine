@@ -22,17 +22,18 @@
       'mgnl:lastModified': 2022-01-16T10:11:08.907+01:00
       'mgnl:lastModifiedBy': 'superuser'
       'name': 'černý'
+      'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187']
       'positiveSources': []
     'bylinn-':
       'jcr:primaryType': 'mgnl:content'
       'jcr:uuid': '6c3d2b90-fe33-42da-9ebd-c82fa5af3a4a'
       'mgnl:created': 2022-01-15T10:03:02.442+01:00
       'mgnl:createdBy': 'superuser'
-      'mgnl:lastModified': 2022-01-15T10:03:18.622+01:00
+      'mgnl:lastModified': 2022-01-17T16:47:02.256+01:00
       'mgnl:lastModifiedBy': 'superuser'
       'name': 'bylinné'
-      'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
-      'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+      'negativeSources': []
+      'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
     'zelen-':
       'jcr:primaryType': 'mgnl:content'
       'jcr:uuid': 'ea453445-660b-4f47-b3f1-32f3c2f23db0'
@@ -81,6 +82,16 @@
       'name': 'pivo, víno'
       'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
       'positiveSources': []
+    '-erven--v-no':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '76bd88b1-692b-4751-865e-a290b5e0bd14'
+      'mgnl:created': 2022-01-16T11:01:56.019+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-16T11:02:11.356+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'červené víno'
+      'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+      'positiveSources': []
   'd-usy':
     'jcr:primaryType': 'mgnl:folder'
     'jcr:uuid': 'b169eef7-c3cd-4fb2-9fce-bc63b22a230f'
@@ -99,14 +110,6 @@
       'name': 'ovocné džusy s výjimkou citrusových'
       'negativeSources': []
       'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
-'ryby':
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'b9abf961-7834-4d64-a4b2-34a7b7fdf98b'
-  'mgnl:created': 2022-01-15T09:45:02.493+01:00
-  'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-15T09:45:14.215+01:00
-  'mgnl:lastModifiedBy': 'superuser'
-  'name': 'ryby'
 'uzeniny':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': '69afc0ef-a7f3-4067-8108-d77563c4c600'
@@ -120,10 +123,10 @@
     'jcr:uuid': '1e95feeb-0623-43e7-a41d-dd24a6b6f680'
     'mgnl:created': 2022-01-15T09:46:59.520+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T09:53:32.788+01:00
+    'mgnl:lastModified': 2022-01-16T11:02:36.248+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'salámy, klobásy, párky'
-    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
     'positiveSources': []
   '-unka':
     'jcr:primaryType': 'mgnl:content'
@@ -140,7 +143,7 @@
   'jcr:uuid': '99f5cacf-74a5-4559-bcad-8710f0a9f2e4'
   'mgnl:created': 2022-01-15T09:49:21.371+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-15T09:50:46.306+01:00
+  'mgnl:lastModified': 2022-01-16T11:20:10.465+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'sýry'
   'zraj-c-':
@@ -149,28 +152,39 @@
     'jcr:uuid': '4adb4c60-accd-444c-b537-4e9100ac9e75'
     'mgnl:created': 2022-01-15T09:50:59.739+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T09:52:48.345+01:00
+    'mgnl:lastModified': 2022-01-16T11:20:44.213+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'zrající'
-    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
+    'positiveSources': []
+  'ement-l--gouda--camembert---edar':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '80b4cc74-1d19-4388-8c47-e05edaaea8e2'
+    'mgnl:created': 2022-01-16T11:20:36.701+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T11:20:36.701+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'ementál, gouda, camembert, čedar'
+    'negativeSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
     'positiveSources': []
 'zelenina':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': '47542ade-09b2-4bc4-b0d5-840d4100497a'
   'mgnl:created': 2022-01-15T09:52:38.890+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-16T10:02:02.605+01:00
+  'mgnl:lastModified': 2022-01-16T11:13:23.808+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'zelenina'
-  'raj-ata':
+  'raj-e--protlak--ke-up':
     'jcr:primaryType': 'mgnl:content'
     'jcr:uuid': 'abf33277-2ec4-4afd-85e9-9889fa7cca58'
     'mgnl:created': 2022-01-15T09:53:03.642+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T10:08:47.567+01:00
+    'mgnl:lastModified': 2022-01-17T16:33:54.009+01:00
     'mgnl:lastModifiedBy': 'superuser'
-    'name': 'rajčata'
-    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187']
+    'name': 'rajče, protlak, kečup'
+    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187',
+      '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
     'positiveSources': []
   'lilek':
     'jcr:primaryType': 'mgnl:content'
@@ -187,10 +201,10 @@
     'jcr:uuid': '43f90b2f-7c63-48f6-88c1-548281c1178f'
     'mgnl:created': 2022-01-16T09:42:53.226+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T09:44:31.976+01:00
+    'mgnl:lastModified': 2022-01-17T16:34:30.058+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'špenát'
-    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
     'positiveSources': []
   'nakl-dan-':
     'description': 'kyselé zelí, hotová jídla'
@@ -208,7 +222,7 @@
     'jcr:uuid': '09253ae7-919d-4058-bce5-9bb90d0233b6'
     'mgnl:created': 2022-01-15T09:55:51.512+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T09:57:47.877+01:00
+    'mgnl:lastModified': 2022-01-16T11:09:15.489+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'luštěniny'
     'hr--ek':
@@ -241,22 +255,42 @@
       'name': 'červené fazole'
       'negativeSources': ['32026334-4846-4935-ae2b-8a295e93a187']
       'positiveSources': []
+    'lu-t-niny--nespecifikov-no-':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': 'f8284d5b-2c5d-40be-9e67-02730525f37b'
+      'mgnl:created': 2022-01-16T11:09:30.179+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-16T11:09:30.179+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'luštěniny (nespecifikováno)'
+      'negativeSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+      'positiveSources': []
   'kysel--zel-':
     'jcr:primaryType': 'mgnl:content'
     'jcr:uuid': 'a9ff02a8-cb8f-432f-975d-1c2f5529dfa8'
     'mgnl:created': 2022-01-16T10:02:09.753+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T10:02:09.754+01:00
+    'mgnl:lastModified': 2022-01-17T16:34:43.848+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'kyselé zelí'
-    'negativeSources': ['32026334-4846-4935-ae2b-8a295e93a187']
+    'negativeSources': ['32026334-4846-4935-ae2b-8a295e93a187', '2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
     'positiveSources': []
+  'brambory--d-n---bat-ty--cuketa--mrkev--okurky-nebo-celer':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '4ca10691-722f-46bb-9959-89efdb3aad94'
+    'mgnl:created': 2022-01-16T11:13:33.969+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T11:13:33.969+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'brambory, dýně, batáty, cuketa, mrkev, okurky nebo celer'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
 'ovoce':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': 'd7634695-85a9-4ed0-8dc4-0b4b94705bcd'
   'mgnl:created': 2022-01-15T09:53:20.813+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-16T09:51:06.787+01:00
+  'mgnl:lastModified': 2022-01-16T11:10:52.885+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'ovoce'
   'pap-ja--ananas---vestky--kiwi-a-ban-ny':
@@ -268,6 +302,37 @@
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'papája, ananas, švestky, kiwi a banány'
     'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+    'positiveSources': []
+  'ban-n':
+    'description': 'jen nepřezrálé?'
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '706c1f09-6b0e-4be3-a9e9-5e162f81af59'
+    'mgnl:created': 2022-01-16T11:11:31.707+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T11:11:51.470+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'banán'
+    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  'ananas':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'eadabd87-0d29-4b39-bb5a-d26421aa14d6'
+    'mgnl:created': 2022-01-16T11:06:25.786+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T11:06:44.868+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'ananas'
+    'negativeSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e', 'af6641d8-cf5e-4954-a037-21112c51a451']
+    'positiveSources': []
+  'jahody':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'd984f991-246c-420a-970f-34e8becc70fd'
+    'mgnl:created': 2022-01-16T11:07:02.222+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T11:07:11.698+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'jahody'
+    'negativeSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
     'positiveSources': []
   'Citrusy':
     'description': 'citrony, limetky, pomeranče'
@@ -285,17 +350,17 @@
     'jcr:uuid': 'b2765cdd-245e-43e8-ac7f-03eacadf3cc4'
     'mgnl:created': 2022-01-15T09:54:35.988+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-15T09:54:48.057+01:00
+    'mgnl:lastModified': 2022-01-17T16:41:28.226+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'konzervované'
-    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+    'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
     'positiveSources': []
   'o-echy':
     'jcr:primaryType': 'mgnl:folder'
     'jcr:uuid': '2a01d828-ba12-4cd4-a462-b2f4c349f97b'
     'mgnl:created': 2022-01-15T09:56:25.794+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T09:59:18.384+01:00
+    'mgnl:lastModified': 2022-01-16T11:07:57.951+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'ořechy'
     'vla-sk-':
@@ -328,6 +393,16 @@
       'name': 'arašídy'
       'negativeSources': ['32026334-4846-4935-ae2b-8a295e93a187']
       'positiveSources': []
+    'o-echy--nespecifikov-no-':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '755d8758-00ee-4203-9649-3b5a2d8b3abb'
+      'mgnl:created': 2022-01-16T11:08:06.858+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-16T11:08:13.832+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'ořechy (nespecifikováno)'
+      'negativeSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+      'positiveSources': []
   'avok-do':
     'jcr:primaryType': 'mgnl:content'
     'jcr:uuid': '7b25dd12-ec3f-4eca-8acb-fc976ada384a'
@@ -348,22 +423,53 @@
     'name': 'Zavařované'
     'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
     'positiveSources': []
+  'jablka':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '45d2d261-2f91-438e-a0d1-9fa39ad38ddc'
+    'mgnl:created': 2022-01-16T11:11:00.829+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T11:11:00.829+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'jablka'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  'hru-ky':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '1e418ebc-6ba1-4e46-a80d-9ee97ed4bd4a'
+    'mgnl:created': 2022-01-17T16:47:47.322+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:47:58.782+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'hrušky'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  'hrozny':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '5a5d9c4a-32e3-4c36-b0d7-aa38a5b7d144'
+    'mgnl:created': 2022-01-17T16:48:08.184+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:48:17.594+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'hrozny'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
 '-okol-da-a-kakaov--produkty':
   'jcr:primaryType': 'mgnl:content'
   'jcr:uuid': '72c31458-d10a-4595-b410-8b331a303760'
   'mgnl:created': 2022-01-15T09:57:34.488+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-16T10:08:12.447+01:00
+  'mgnl:lastModified': 2022-01-16T11:01:35.323+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'čokoláda a kakaové produkty'
-  'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187']
+  'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187',
+    '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
   'positiveSources': []
 'pe-ivo':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': '5942ada6-9755-4260-a48d-0048f127fbbd'
   'mgnl:created': 2022-01-15T09:57:48.853+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-15T09:57:55.954+01:00
+  'mgnl:lastModified': 2022-01-17T16:39:22.260+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'pečivo'
   'kynut-':
@@ -376,6 +482,17 @@
     'name': 'kynuté'
     'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
     'positiveSources': []
+  '-erstv--m-lo-prope-en--pe-ivo--kynut--t-sta':
+    'description': 'potraviny s obsahem životaschopných kvasnic'
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'c3d558ff-6001-4de7-b19c-0c0de1f3d7c0'
+    'mgnl:created': 2022-01-17T16:39:26.917+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:39:43.887+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'čerstvé málo propečené pečivo, kynutá těsta'
+    'negativeSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
+    'positiveSources': []
 'ko-en-':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': '9cd026d6-e38a-4978-a095-225e783bf092'
@@ -384,44 +501,131 @@
   'mgnl:lastModified': 2022-01-15T10:05:15.491+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'koření'
-  'bylinky':
-    'jcr:primaryType': 'mgnl:content'
-    'jcr:uuid': 'cd021850-ec47-442b-8e8e-9b2bf651df2b'
-    'mgnl:created': 2022-01-15T10:05:30.261+01:00
-    'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-15T10:05:30.262+01:00
-    'mgnl:lastModifiedBy': 'superuser'
-    'name': 'bylinky'
-    'negativeSources': []
-    'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
 'oleje':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': '84bbd664-892e-4528-8210-b17847c4dd04'
   'mgnl:created': 2022-01-15T09:59:35.908+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-15T10:04:51.453+01:00
+  'mgnl:lastModified': 2022-01-17T16:45:30.187+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'oleje'
+  'olivov-':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '824bd2b7-d0d7-48f8-ac95-81dcc11fc2d8'
+    'mgnl:created': 2022-01-17T16:45:40.425+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:45:40.425+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'olivový'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  'kokosov-':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'f5221239-4fea-4e56-bf67-e32a65f59b14'
+    'mgnl:created': 2022-01-17T16:45:48.131+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:45:55.487+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'kokosový'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
 'Aditiva---dochucovadla':
   'description': 'benzoany, sulfidy, dusitany, glutamát, potravinářská barviva, seitan,
-    ocet'
+    ocet, azobarviva, antioxidanty, benzoát, siřičitany, sorbáty, glutamát, nitráty'
   'jcr:primaryType': 'mgnl:content'
   'jcr:uuid': '0e967bb4-3967-4196-9fc0-ab30965f67a6'
   'mgnl:created': 2022-01-15T09:59:54.362+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-16T10:09:34.444+01:00
+  'mgnl:lastModified': 2022-01-17T16:41:56.669+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'Aditiva - dochucovadla'
-  'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187']
+  'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187',
+    '2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
   'positiveSources': []
 'maso':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': 'c9629aa6-49ff-42ac-a5a6-748a290e291b'
   'mgnl:created': 2022-01-15T10:05:33.861+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-15T10:05:40.954+01:00
+  'mgnl:lastModified': 2022-01-17T16:49:21.325+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'maso'
+  'n-hrady-masa':
+    'jcr:primaryType': 'mgnl:folder'
+    'jcr:uuid': '3a8ad66d-67bc-4120-a812-40ae173d25ab'
+    'mgnl:created': 2022-01-17T16:36:00.215+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:36:09.992+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'náhrady masa'
+    's-jov--om--ka--tofu':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': 'cd1b2ad6-d976-4512-9a33-03a045dd0b5b'
+      'mgnl:created': 2022-01-17T16:36:24.451+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-17T16:36:24.451+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'sójová omáčka, tofu'
+      'negativeSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
+      'positiveSources': ['']
+  'vep-ov-':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '09b6400b-62b8-4605-ab55-b7a60776b753'
+    'mgnl:created': 2022-01-17T16:37:58.542+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:37:58.542+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'vepřové'
+    'negativeSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
+    'positiveSources': []
+  'hov-z-':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '6f21d7dd-dbaf-4f2f-8dde-fbda25ac6c97'
+    'mgnl:created': 2022-01-17T16:49:30.177+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:49:30.177+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'hovězí'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  'dr-be-':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'f78b1715-22dd-480f-96a2-ce5d1277b697'
+    'mgnl:created': 2022-01-17T16:49:32.071+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:49:42.834+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'drůbež'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  'ryby':
+    'jcr:primaryType': 'mgnl:folder'
+    'jcr:uuid': 'b9abf961-7834-4d64-a4b2-34a7b7fdf98b'
+    'mgnl:created': 2022-01-15T09:45:02.493+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:50:38.541+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'ryby'
+    'sardinky--an-ovi-ky--tu--k--sle---makrela':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '052d828e-1745-4ef8-a549-f7b68380f302'
+      'mgnl:created': 2022-01-16T11:18:53.246+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-17T16:50:23.265+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'sardinky, ančovičky, tuňák, sleď, makrela'
+      'negativeSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
+      'positiveSources': []
+    '-erstv-':
+      'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '159f6d6f-19f8-4bd4-afba-9524acb7ab67'
+      'mgnl:created': 2022-01-17T16:50:47.117+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-17T16:50:47.117+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'čerstvé'
+      'negativeSources': []
+      'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
 'vejce':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': '23a44cf0-c52d-4ecf-bc88-74fe937f8b93'
@@ -435,21 +639,23 @@
     'jcr:uuid': '60f5e9b4-02ff-48a0-a14a-7d6c907f933e'
     'mgnl:created': 2022-01-15T10:07:11.533+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T10:14:26.719+01:00
+    'mgnl:lastModified': 2022-01-16T11:10:19.889+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'žloutek'
     'negativeSources': []
-    'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187']
+    'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187',
+      '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
   'b-lek':
     'jcr:primaryType': 'mgnl:content'
     'jcr:uuid': '62784a10-d48b-4baf-9fcb-b7798403c93f'
     'mgnl:created': 2022-01-15T10:07:14.218+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T10:14:33.070+01:00
+    'mgnl:lastModified': 2022-01-17T16:38:30.873+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'bílek'
-    'negativeSources': []
-    'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187']
+    'negativeSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
+    'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187',
+      '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
 'obiloviny':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': 'f2bd26d5-efaf-4c0a-a1d4-4f469f7aa26b'
@@ -481,11 +687,12 @@
       'jcr:uuid': 'eb32f730-5f0d-4b00-9a9b-a1c6f382b2cc'
       'mgnl:created': 2022-01-16T10:15:24.017+01:00
       'mgnl:createdBy': 'superuser'
-      'mgnl:lastModified': 2022-01-16T10:15:44.018+01:00
+      'mgnl:lastModified': 2022-01-17T16:45:14.753+01:00
       'mgnl:lastModifiedBy': 'superuser'
       'name': 'rýže'
       'negativeSources': []
-      'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187']
+      'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '32026334-4846-4935-ae2b-8a295e93a187',
+        '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
     'quinoa':
       'jcr:primaryType': 'mgnl:content'
       'jcr:uuid': '4ee30770-f688-4903-a5d6-bdda97b9c06a'
@@ -501,10 +708,10 @@
   'jcr:uuid': '97ba071f-4c5d-4234-ac3b-db32fcbcd0ec'
   'mgnl:created': 2022-01-16T09:56:40.295+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-16T09:56:40.296+01:00
+  'mgnl:lastModified': 2022-01-16T11:08:32.080+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'Dary moře – ústřice, krevety, krabi '
-  'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+  'negativeSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
   'positiveSources': []
 'ml-ko':
   'jcr:primaryType': 'mgnl:folder'
@@ -532,16 +739,16 @@
     'mgnl:lastModified': 2022-01-16T10:17:45.377+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'Mléčné náhrady'
-    'kokosov--ml-ko--mandlov--ml-ko':
+    'kokosov---mandlov---konopn--ml-ko':
       'jcr:primaryType': 'mgnl:content'
       'jcr:uuid': 'e71b9d7a-548e-4935-aaf8-de1b520b741b'
       'mgnl:created': 2022-01-16T10:17:51.988+01:00
       'mgnl:createdBy': 'superuser'
-      'mgnl:lastModified': 2022-01-16T10:17:51.988+01:00
+      'mgnl:lastModified': 2022-01-17T16:48:54.096+01:00
       'mgnl:lastModifiedBy': 'superuser'
-      'name': 'kokosové mléko, mandlové mléko'
+      'name': 'kokosové, mandlové, konopné mléko'
       'negativeSources': []
-      'positiveSources': ['32026334-4846-4935-ae2b-8a295e93a187']
+      'positiveSources': ['32026334-4846-4935-ae2b-8a295e93a187', '69836769-ecfd-4f7d-8027-0d5ab1983b3e']
 'kimchi':
   'jcr:primaryType': 'mgnl:content'
   'jcr:uuid': '90da5445-6166-44d9-b70b-d4b32fb2da35'
@@ -552,3 +759,111 @@
   'name': 'kimchi'
   'negativeSources': ['32026334-4846-4935-ae2b-8a295e93a187']
   'positiveSources': []
+'byliny':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '85ba0c8d-abca-4049-a831-8283307916d6'
+  'mgnl:created': 2022-01-16T10:58:39.717+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-16T10:58:47.282+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'byliny'
+  'Quercetin':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'cd021850-ec47-442b-8e8e-9b2bf651df2b'
+    'mgnl:created': 2022-01-15T10:05:30.261+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T10:59:55.467+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'Quercetin'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  'kurkuma':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '948a0651-3ecf-4499-bed2-62ee3d30beef'
+    'mgnl:created': 2022-01-16T11:00:04.860+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T11:00:11.766+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'kurkuma'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  'kop-iva':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '5c0782f5-7cca-4fce-bbc3-de2c4efed054'
+    'mgnl:created': 2022-01-16T11:00:20.461+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-16T11:00:35.033+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'kopřiva'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+'vitam-ny-a-miner-ly':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'a6713780-b5b6-4ce8-aa56-c06520d5729c'
+  'mgnl:created': 2022-01-16T11:03:58.051+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-17T16:52:46.239+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'vitamíny a minerály'
+  'C-a-B6':
+    'description': 'Nedostatek mědi, vitamínu C a B6 - měď a vitamín C jsou rozhodujícími
+      složkami enzymu DAO a B6 je klíčovým kofaktorem, který umožňuje DAO metabolizovat
+      histamin.'
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '43f3d2db-a915-4130-a8b2-18fd29bd527e'
+    'mgnl:created': 2022-01-16T11:04:31.061+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:52:46.239+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'C a B6'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+  '-m----zvy-uje-aktivitu-DAO---ho---k--mangan--zinek-nebo-v-pn-k':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '9bedcfe9-3d65-4c57-b2e5-7a9045370d7d'
+    'mgnl:created': 2022-01-16T11:15:15.595+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:52:46.239+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': ' měď (zvyšuje aktivitu DAO), hořčík, mangan, zinek nebo vápník'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+'mra-en-':
+  'description': '   - mírný vzestup histaminu způsobuje i mrazení'
+  'jcr:primaryType': 'mgnl:content'
+  'jcr:uuid': 'ad2d8053-a562-4e97-8863-66ae2a99f64d'
+  'mgnl:created': 2022-01-17T16:41:18.246+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-17T16:41:18.246+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'mražené'
+  'negativeSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
+  'positiveSources': []
+'l-ky--dopl-ky-stravy':
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'd4f131ad-b4e1-4cc1-95a8-030451fee724'
+  'mgnl:created': 2022-01-17T16:42:53.695+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-17T16:43:47.461+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'léky, doplňky stravy'
+  'l-ky---cel---ada--nutno---st-p--balov--let-k':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'defc83da-efd5-4971-8bc2-a802a43448cb'
+    'mgnl:created': 2022-01-17T16:40:27.512+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:43:35.201+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'léky – celá řada, nutno číst příbalový leták'
+    'negativeSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
+    'positiveSources': []
+  'DAOSIN':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '2cfcc502-a64d-47a6-910d-1c5e2df2d7e1'
+    'mgnl:created': 2022-01-17T16:43:57.854+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-17T16:43:57.854+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'DAOSIN'
+    'negativeSources': []
+    'positiveSources': ['2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']

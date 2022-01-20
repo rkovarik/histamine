@@ -14,6 +14,17 @@ subApps:
             showOptions: true
         positiveSources: *sources
   browser:
+    workbench:
+      contentViews:
+        tree:
+          columns:
+            activationStatus: &score !override
+              class: roman.histamin.column.HistamineScoreColumnDefinition
+              type: java.lang.Integer
+        list:
+          columns:
+            activationStatus: *score
+
     actions:
       export:
         implementationClass: roman.histamin.JcrExportRootAction
