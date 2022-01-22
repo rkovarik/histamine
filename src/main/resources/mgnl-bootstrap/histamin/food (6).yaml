@@ -219,16 +219,27 @@
     'name': 'kyselé zelí'
     'negativeSources': ['32026334-4846-4935-ae2b-8a295e93a187', '2c37c6ac-6921-4ca0-9a77-e76eaeb7f07c']
     'positiveSources': []
-  'brambory--d-n---bat-ty--cuketa--mrkev--okurky-nebo-celer':
+  'brambory--d-n---cuketa--mrkev--okurky-nebo-celer':
     'jcr:primaryType': 'mgnl:content'
     'jcr:uuid': '4ca10691-722f-46bb-9959-89efdb3aad94'
     'mgnl:created': 2022-01-16T11:13:33.969+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T11:13:33.969+01:00
+    'mgnl:lastModified': 2022-01-22T09:27:46.923+01:00
     'mgnl:lastModifiedBy': 'superuser'
-    'name': 'brambory, dýně, batáty, cuketa, mrkev, okurky nebo celer'
+    'name': 'brambory, dýně, cuketa, mrkev, okurky nebo celer'
     'negativeSources': []
-    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e']
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e', '527e5a82-5d97-468e-a417-c503b0e8fec8']
+  'bat-ty':
+    'description': 'jam, sladké brambory, batáty'
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '9494d6f6-e46b-46cc-aa8d-55fec8f77e3c'
+    'mgnl:created': 2022-01-22T09:27:19.749+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-22T09:27:41.187+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'batáty'
+    'negativeSources': []
+    'positiveSources': ['69836769-ecfd-4f7d-8027-0d5ab1983b3e', '527e5a82-5d97-468e-a417-c503b0e8fec8']
 'ovoce':
   'jcr:primaryType': 'mgnl:folder'
   'jcr:uuid': 'd7634695-85a9-4ed0-8dc4-0b4b94705bcd'
@@ -730,7 +741,7 @@
   'jcr:uuid': 'f2bd26d5-efaf-4c0a-a1d4-4f469f7aa26b'
   'mgnl:created': 2022-01-15T10:07:33.137+01:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2022-01-17T17:18:29.291+01:00
+  'mgnl:lastModified': 2022-01-22T09:37:30.023+01:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'obiloviny'
   'j-hly':
@@ -738,17 +749,17 @@
     'jcr:uuid': '6579e44f-3622-4111-b10c-232860f9318a'
     'mgnl:created': 2022-01-15T10:08:12.241+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T10:16:39.072+01:00
+    'mgnl:lastModified': 2022-01-22T09:26:45.321+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'jáhly'
     'negativeSources': []
-    'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451']
+    'positiveSources': ['af6641d8-cf5e-4954-a037-21112c51a451', '527e5a82-5d97-468e-a417-c503b0e8fec8']
   'bezlepkov-':
     'jcr:primaryType': 'mgnl:folder'
     'jcr:uuid': '1d037d4b-3893-4a32-b8c4-d77199897b97'
     'mgnl:created': 2022-01-16T10:14:53.730+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-16T10:15:13.008+01:00
+    'mgnl:lastModified': 2022-01-22T09:39:39.346+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'bezlepkové'
     'r--e':
@@ -772,15 +783,90 @@
       'name': 'quinoa'
       'negativeSources': []
       'positiveSources': ['32026334-4846-4935-ae2b-8a295e93a187']
+    ? 'r--e-indi-nsk---r--ov--chleb--ky--r--ov--k-upky--sn-da-ov--cere-lie---r--ov--crispies---r--ov--nudle--s-go---krobovit--mou-ka-s-go'
+    : 'jcr:primaryType': 'mgnl:content'
+      'jcr:uuid': '28b51ae6-68ee-49cb-b33b-712ca315200f'
+      'mgnl:created': 2022-01-22T09:40:42.520+01:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2022-01-22T09:40:42.520+01:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'name': 'rýže indiánská, rýžové chlebíčky, rýžové křupky (snídaňové cereálie),
+        rýžové crispies,  rýžové nudle, ságo, škrobovitá moučka ságo'
+      'negativeSources': []
+      'positiveSources': ['527e5a82-5d97-468e-a417-c503b0e8fec8']
   'p-eni-n--kl--ky':
     'jcr:primaryType': 'mgnl:content'
     'jcr:uuid': '20b0dc55-4a25-4577-86ba-896efe262af6'
     'mgnl:created': 2022-01-17T17:18:40.895+01:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2022-01-17T17:18:40.896+01:00
+    'mgnl:lastModified': 2022-01-22T09:36:36.971+01:00
     'mgnl:lastModifiedBy': 'superuser'
     'name': 'pšeničné klíčky'
-    'negativeSources': ['651abdf7-15c7-452d-84c9-38cb80cd01d0']
+    'negativeSources': ['651abdf7-15c7-452d-84c9-38cb80cd01d0', '527e5a82-5d97-468e-a417-c503b0e8fec8']
+    'positiveSources': []
+  'je-n--slad--slad':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '70a1ba39-6e93-4247-a772-7752272c4e02'
+    'mgnl:created': 2022-01-22T09:29:00.759+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-22T09:29:00.759+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'ječný slad, slad'
+    'negativeSources': ['527e5a82-5d97-468e-a417-c503b0e8fec8']
+    'positiveSources': []
+  'pohanka':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'ebee76e1-0895-4a08-9270-c127bf50620b'
+    'mgnl:created': 2022-01-22T09:30:17.988+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-22T09:30:22.975+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'pohanka'
+    'negativeSources': ['527e5a82-5d97-468e-a417-c503b0e8fec8']
+    'positiveSources': []
+  '-ito':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '1f13cc32-3d93-4316-901a-963706cde8da'
+    'mgnl:created': 2022-01-22T09:37:56.114+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-22T09:37:59.677+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'žito'
+    'negativeSources': ['527e5a82-5d97-468e-a417-c503b0e8fec8']
+    'positiveSources': []
+  ? 'p-enice--khorasan--kamut---ka-tany--jedl----konopn--sem-nko--kuku-ice-sladk---kuku-ice--su-en---mouka--ka-e---kyseliny-folov---laskavec'
+  : 'description': 'kukuřice sladká, z konzervy Těžko stravitelná Pravděpodobně nevhodná
+      po dlouhém skladování či ve větším množství. '
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': '354e7f34-1e59-4ccc-b7fe-e53d8b4ad97d'
+    'mgnl:created': 2022-01-22T09:33:54.165+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-22T09:36:19.030+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'pšenice (khorasan, kamut), kaštany (jedlé), konopné semínko, kukuřice
+      sladká, kukuřice, sušená (mouka, kaše), kyseliny folové, laskavec'
+    'negativeSources': []
+    'positiveSources': ['527e5a82-5d97-468e-a417-c503b0e8fec8']
+  'kuku-i-n--lup-nky-':
+    'description': 'Dávat si pozor na přítomnost sladu, kyseliny folové.'
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'a7150e53-f0ee-49f6-ab40-dfb2c70a416b'
+    'mgnl:created': 2022-01-22T09:34:05.020+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-22T09:35:23.315+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'kukuřičné lupínky '
+    'negativeSources': []
+    'positiveSources': ['527e5a82-5d97-468e-a417-c503b0e8fec8']
+  'slune-nicov--sem-nka':
+    'jcr:primaryType': 'mgnl:content'
+    'jcr:uuid': 'ceed523f-cc30-4b05-99cc-59daca1a35a0'
+    'mgnl:created': 2022-01-22T09:37:34.481+01:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2022-01-22T09:37:34.481+01:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'name': 'slunečnicová semínka'
+    'negativeSources': ['527e5a82-5d97-468e-a417-c503b0e8fec8']
     'positiveSources': []
 'Dary-mo-e----st-ice--krevety--krabi-':
   'description': 'humr, krab, krevety, langusta, měkkýši (mušle, ústřice, krab, humr,
@@ -1126,3 +1212,13 @@
   'name': 'balené v ochranné atmosféře'
   'negativeSources': ['651abdf7-15c7-452d-84c9-38cb80cd01d0']
   'positiveSources': []
+'s-dlo':
+  'jcr:primaryType': 'mgnl:content'
+  'jcr:uuid': 'f2dbb060-6cdc-48e6-8b6a-9d642909ae03'
+  'mgnl:created': 2022-01-21T16:30:33.386+01:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2022-01-21T16:30:33.387+01:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'sádlo'
+  'negativeSources': []
+  'positiveSources': ['527e5a82-5d97-468e-a417-c503b0e8fec8']
